@@ -58,35 +58,31 @@ button {
     /* padding: 4px; */
     margin: 2px;
 }
+
 #one img {
     width: 100%;
 }
 .two {
     background-color: black;
+    width: 100%;
+    padding-bottom: 70px;
+    /* height: 100vh; */
 }
 .main-heading {
     color: white;
     text-align: center;
     padding-top: 40px;
     font-size: 50px;
+    font-family: futurak;
 }
-.text-small {
-    font-family: 'poppin', sans-serif;
-    font-size: 40px;
-    font-weight: 400;
-    /* padding: 20px; */
-}
-.brand-name {
-    font-family: 'Bebas Neue', sans-serif;
-    font-size: 40px;
-    font-weight: 600;
-}
-.two h2 {
-    color: white;
+.two h1 {
     text-align: center;
-    font-family: 'Apercu';
-    font-size: 40px;
+    color: white;
+    font-family: Apr;
+    padding-top: 60px;
 }
+
+
 .two p {
     color: white;
     text-align: center;
