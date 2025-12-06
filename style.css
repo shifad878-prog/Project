@@ -1,0 +1,170 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+@font-face {
+    font-family: "futurak";
+    src: url(./fonts/futurak.ttf);
+}
+
+header {
+    background-color: black;
+    display: flex;
+    height: 15vh;
+    align-items: center;
+}
+#logo {
+    padding: 40px;
+    margin-left: 10px;
+}
+#nav-lists ul {
+    display: flex;
+    gap: 20px;
+    margin-left:500px; 
+    
+}
+#nav-lists li {
+    display: flex;
+    
+}
+#nav-lists ul a {
+    text-decoration: none;
+    color: white;
+}
+button a {
+    list-style: none;
+    text-decoration: none;
+    color: white;
+}
+button {
+    border: 1px solid white;
+    padding: 15px;
+    border-radius: 50px;
+    background-color: black;
+    margin: 10px;
+}
+#red {
+    background-color: red;
+    border: 1px solid red;
+    padding: 15px;
+}
+#arrow {
+    background-color: white;
+    color: red;
+    border: 1px solid white;
+    border-radius: 50px;
+    /* padding: 4px; */
+    margin: 2px;
+}
+#one img {
+    width: 100%;
+}
+.two {
+    background-color: black;
+}
+.main-heading {
+    color: white;
+    text-align: center;
+    padding-top: 40px;
+    font-size: 50px;
+}
+.text-small {
+    font-family: 'poppin', sans-serif;
+    font-size: 40px;
+    font-weight: 400;
+    /* padding: 20px; */
+}
+.brand-name {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 40px;
+    font-weight: 600;
+}
+.two h2 {
+    color: white;
+    text-align: center;
+    font-family: 'Apercu';
+    font-size: 40px;
+}
+.two p {
+    color: white;
+    text-align: center;
+}
+.boxex {
+    display: flex;
+    padding: 50px;
+    padding-left: 5%;
+    padding-right: 5%;
+    flex-direction: row;
+    padding-top: 3%;
+    gap: 50px;
+}
+#box-1 {
+    background-color: white;
+    width: 20vw;
+    padding: 10px;
+}
+#box-2 {
+    background-color: white;
+    width: 20vw;
+    padding: 10px;
+    text-align: center;
+}
+#box-3 {
+    background-color: white;
+    width: 20vw;
+    padding: 10px;
+}
+#box-4 {
+    background-color: white;
+    width: 20vw;
+    padding: 10px;
+}
+.btns {
+    display: flex;
+    gap: 12%;
+    justify-content: center;
+}
+
+.Btn a {
+    padding: 30px;
+}
+#three {
+     background-color:  rgb(46, 41, 41);
+}
+#three h1 {
+    color: white;
+    text-align: center;
+    font-family: 'futurak';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 52px;
+    line-height: 62px;
+    color: #FFFFFF;
+}
+#three h2 {
+    font-family: 'futurak';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 52px;
+    line-height: 62px;
+    color: #FFFFFF;
+    text-align: center;
+}
+#three p {
+    text-align: center;
+    color: white;
+   
+}
+.content h4 {
+    color: red;
+    font-weight: lighter;
+    padding-left: 100px;
+    /* padding-top: 40px; */
+    letter-spacing: 8px;
+}
+.content h3 {
+    padding-left: 7%;
+    font-size: 30px;
+}
