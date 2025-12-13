@@ -594,12 +594,3 @@ footer p {
     color: white;
 }
 
-footer {
-    background-color: black;
-    padding: 20px 100px;
-    display: flex;
-    gap: 75%;
-}
-footer p{
-    color: white;
-}
