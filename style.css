@@ -518,91 +518,6 @@ details {
     font-size: 20px;
 }
 
-/* .information {
-    background-color: rgb(27, 27, 27);
-    /* padding: 20px 100px; */
-    /* display: flex; */
-    /* flex-direction: row; */
-    /* gap: 10%; */
-    /* width: 100%; */
-/* } */
-
-/* .side-one p {
-    color: white;
-    padding-top: 10px;
-    text-align: left;
-    font-size: 20px;
-}
-.side-two h4 {
-    color: white;
-}
-.side-two {
-    display: flex;
-    flex-direction: column;
-    gap: 10px;
-}
-.side-two p{
-    color: white;
-    display: flex;
-    flex-direction: column;
-    padding: 10px;
-} */
-/* .side-three {
-    display: flex;
-    flex-direction: column;
-    gap: 10px;
-}
-.side-three h4 {
-    color: white;
-    font-family: 'Apercu';
-}
-.side-three h3 {
-    color: white;
-}
-.side-three i {
-    display: flex;
-    align-items: center;
-} */
-/* .side-three p{ */
-    /* color: white; */
-    /* display: flex; */
-    /* flex-direction: column; */
-    /* padding: 10px; */
-/* } */
-
-/* #insta {
-    border: 1px solid red;
-    border-radius: 50%;
-    padding: 5px 10px;
-    background-color: red;
-    width: 30px;
-}
-#facebook {
-    background-color: red;
-    padding: 5px 10px;
-    border-radius: 50%;
-    width: 30px;
-}
-#twitter {
-    background-color: red;
-    border: 1px solid red;
-    border-radius: 50%;
-    padding: 5px 10px;
-    padding-right: 2px;
-    width: 30px;
-    text-align: center;
-}
-footer {
-    background-color: black;
-    padding: 20px 100px;
-    display: flex;
-    flex-direction: row;
-    gap: 100px;
-}
-footer p {
-    color: white;
-} */
- /* */ 
 .section-End {
     background-color: #1d1a1a;
     width: 100%;
@@ -642,6 +557,6 @@ footer {
     padding: 20px 100px;
     width: 100%;
     display: flex;
-    gap: 600px;
-    border: 1px solid red;
+    gap: 500px;
+    /* border: 1px solid red; */
 }
